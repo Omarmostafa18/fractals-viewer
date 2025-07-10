@@ -2,8 +2,7 @@
 
 Explore the beauty of the Mandelbrot Set using Java + Swing.
 
-![Screenshot](<img width="877" height="909" alt="image" src="https://github.com/user-attachments/assets/3d122026-4428-4a3c-85a1-9988f370d2cc" />
-)
+![Fractal Preview](screenshot.png)
 
 ## 🌀 Features
 - 🔍 Zoom in/out with mouse wheel
