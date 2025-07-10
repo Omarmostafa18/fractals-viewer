@@ -64,7 +64,7 @@ public class Mypanel extends JPanel implements MouseListener, MouseMotionListene
         double Za = Ca;
         double Zb = Cb;
 
-        while ((Za * Za + Zb * Zb) < 4 && count <= 500) {
+        while ((Za * Za + Zb * Zb) < 4 && count <= 1000) {
             double tempZa = Za * Za - Zb * Zb + Ca;
             Zb = 2 * Za * Zb + Cb;
             Za = tempZa;
